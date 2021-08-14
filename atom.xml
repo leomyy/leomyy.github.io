@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.chan.pp.ua</id>
     <title>陈的日志</title>
-    <updated>2021-08-12T08:44:05.303Z</updated>
+    <updated>2021-08-14T04:27:02.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.chan.pp.ua"/>
     <link rel="self" href="https://blog.chan.pp.ua/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://blog.chan.pp.ua/images/avatar.png</logo>
     <icon>https://blog.chan.pp.ua/favicon.ico</icon>
     <rights>All rights reserved 2021, 陈的日志</rights>
+    <entry>
+        <title type="html"><![CDATA[测试效果]]></title>
+        <id>https://blog.chan.pp.ua/post/ce-shi-xiao-guo/</id>
+        <link href="https://blog.chan.pp.ua/post/ce-shi-xiao-guo/">
+        </link>
+        <updated>2021-08-14T04:16:15.000Z</updated>
+        <content type="html"><![CDATA[<p>记录测试，20210814</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://blog.chan.pp.ua/post/hello-gridea/</id>
